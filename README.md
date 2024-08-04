@@ -44,7 +44,7 @@
 </ol>
 
 <h2 id="screenshots">Screenshots</h2>
-<img src="images/screenshot1.png" alt="Screenshot do slider">
+<img src="https://github.com/fwzin/Starbucks/blob/main/images/Image_print_3.jpeg" alt="Screenshot do slider">
 <img src="images/screenshot2.png" alt="Screenshot do slider em outro dispositivo">
 
 

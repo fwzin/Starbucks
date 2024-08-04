@@ -45,7 +45,7 @@
 
 <h2 id="screenshots">Screenshots</h2>
 <img src="https://github.com/fwzin/Starbucks/blob/main/images/Image_print_3.jpeg" alt="Screenshot do slider">
-<img src="images/screenshot2.png" alt="Screenshot do slider em outro dispositivo">
+<img src="https://github.com/fwzin/Starbucks/blob/main/images/Image_print_2.jpeg" alt="Screenshot do slider em outro dispositivo">
 
 
 <h2 id="contribuicao">Contribuição</h2>

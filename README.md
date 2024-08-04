@@ -14,7 +14,7 @@
 </ul>
 
 <h2 id="sobre">Sobre</h2>
-<p>Durante uma visita à página inicial da Starbucks, notei a ausência de um controle deslizante para listagens de produtos. Inspirado por isso, decidi criar um slider que se adequasse ao design sofisticado e minimalista da marca.</p>
+<p>Site feito durante estudos de front end, por meio de um tutorial no youtube.</p>
 
 <h2 id="funcionalidades">Funcionalidades</h2>
 <ul>
